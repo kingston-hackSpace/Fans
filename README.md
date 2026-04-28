@@ -1,5 +1,7 @@
 # Fans (5-12V only)
 
+⚠️ Note: This tutorial is for low-voltage DC fans only. DO NOT connect high-voltage AC fans devices!
+
 ---
 ### STEP 1: WIRING
 
@@ -27,4 +29,4 @@ In this case we will use an ultrasonic sensor.
 
 Before continuing, follow [this ultrasonic sensor tutorial](https://github.com/kingston-hackSpace/Distance_Sensors/blob/main/Ultrasonic.md) to understand how the sensor works and how to wire it correctly.
 
-Download and upload [this code to your Arduino board]
+Once completed, download and upload [this code to your Arduino board] to link the sensor to the fan control.
