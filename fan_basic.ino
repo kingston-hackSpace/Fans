@@ -1,4 +1,4 @@
-//In this code you turn on
+//In this code you turn on/off a fan every 7 seconds
 
 int fanPin = 10; // PWM pin
 
