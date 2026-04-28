@@ -1,6 +1,6 @@
 # Fans (5-12V only)
 
-⚠️ Note: This tutorial is for low-voltage DC fans only. DO NOT connect high-voltage AC fans devices!
+⚠️ Note: This tutorial is for ***low-voltage DC fans only***. DO NOT connect high-voltage AC fans devices!
 
 ---
 ### STEP 1: WIRING
