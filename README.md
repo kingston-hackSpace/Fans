@@ -29,4 +29,4 @@ In this case we will use an ultrasonic sensor.
 
 Before continuing, follow [this ultrasonic sensor tutorial](https://github.com/kingston-hackSpace/Distance_Sensors/blob/main/Ultrasonic.md) to understand how the sensor works and how to wire it correctly.
 
-Once completed, download and upload [this code to your Arduino board] to link the sensor to the fan control.
+Once completed, download and upload [this code to your Arduino board](https://github.com/kingston-hackSpace/Fans/blob/main/fan_ultrasonic.ino) to link the sensor to the fan control.
